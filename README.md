@@ -11,13 +11,13 @@ ChatRoom realized by Django web socket, supporting inviting friend to chatroom b
 
 ### Result Display:
 - Login Page: 
-> ![image](https://github.com/chenxi1103/ChatRoom/blob/master/result-display/login.png)
+> ![image](https://github.com/Kuriko1103/ChatRoom/blob/main/result-display/login.png)
 - Register Page:
-> ![image](https://github.com/chenxi1103/ChatRoom/blob/master/result-display/register.png)
+> ![image](https://github.com/Kuriko1103/ChatRoom/blob/main/result-display/register.png)
 - Index Page:
-> ![image](https://github.com/chenxi1103/ChatRoom/blob/master/result-display/index.png)
+> ![image](https://github.com/Kuriko1103/ChatRoom/blob/main/result-display/index.png)
 - Chatroom Page:
-> ![image](https://github.com/chenxi1103/ChatRoom/blob/master/result-display/chatroom.png)
+> ![image](https://github.com/Kuriko1103/ChatRoom/blob/main/result-display/chatroom.png)
 ### Develop Environment
 - Python version: python 3.7
 - Django version: Django 2.1
